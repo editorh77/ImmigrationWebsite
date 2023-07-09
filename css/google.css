@@ -1,0 +1,13 @@
+.goog-logo-link {
+    display:none !important;
+}
+    
+.goog-te-gadget{
+    color: transparent !important;
+}
+#google_translate_element {
+  color: transparent;
+}
+#google_translate_element a {
+  display: none;
+}
